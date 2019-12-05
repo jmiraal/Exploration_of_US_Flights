@@ -60,7 +60,7 @@ This document explores the data related with the aeronautical sector in the USA 
 
 #### Violin plot between Distance(Log scale) and Region:
 
-* For example, Hawaii has two main different nodules. This is logical because they have two different types of traffic. The inner traffic between the islands and the flights to the continent, much more larger. 
+* Hawaii has two main different nodules. This is logical because they have two different types of traffic. The inner traffic between the islands and the flights to the continent, much more larger. 
 * Alaska has a shape elonged and quite uniform. It not exist a clear preference between short and log flights over 200 miles.
 * Between the three areas in the continent there are also some differences. The west region has the greater proportion of long flights, maybe influenced by the flights to Hawaii, but it has a clear increment in the first quartile.
 * The center and east regions are very simiral, but the East Region has small amount of flights in the upper side. ¿It Could be influenced by the proximity to Puerto Rico? Surealy they are long flights to the west coast.
