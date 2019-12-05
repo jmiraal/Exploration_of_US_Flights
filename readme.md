@@ -108,7 +108,9 @@ This document explores the data related with the aeronautical sector in the USA 
 
 #### Analysis of the Total Delay(sum of LateAircraftDelay, CarrierDelay NasDelay, WeatherDelay and SecurityDelay) vs the direction of the flight:
 
-* It seems that the total delay is bigger if we travel to the West than if we travel to the East. This difference does not exists in the North and South directions. 
+* It seems that the total delay is bigger if we travel to the West than if we travel to the East, while there is no diference in the North and South directions. We could think that the movement of rotation of the Earth has some influence on that. But if it is so, to move to the West, against the rotation of the Earth should suppose a decrement in the time to get the destiny. It could been happening that the companies take this into account and they priorize one direction over another to compensate the influence of the earth movement.
+* If we see each cause of delay separately we can observe that the Carrier Delay and the NAS Delay are the principal influences in this increment. This reinforces the idea of that maybe the companies are behind this behaviour.
+* We can also see that the spread of the delays increases a lot for more than 40º of difference in horizontal and 18º in vertical. 
 
 #### Analysis of the routes with more than 15 flights per day and with a mean speed slower than 250 km/h.
 
