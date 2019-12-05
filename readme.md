@@ -9,7 +9,7 @@ This document explores the data related with the aeronautical sector in the USA 
 
 ## Summary of Findings
 
-###Univariate Analisis
+### Univariate Analisis
 
 * Most of the variables of time  and the distances are right-skewed. And some of them seem log-normal ditributed like the Distance, the CRSEsquedulled and the ElapsedTimeEsqueduled.
 
