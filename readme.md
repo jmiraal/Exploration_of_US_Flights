@@ -23,7 +23,7 @@ This document explores the data related with the aeronautical sector in the USA 
 
 * And finally, the late aricraft delay increase gradually the number of cases until 15 minutes where it has a great step to decrease gradually after it.
 
-
+### Bivariate Analisis
 
 #### Scatter plot between ActualElapsedTime and CRSElapsedTime: 
 
